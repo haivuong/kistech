@@ -154,6 +154,7 @@ ol li {
 div.jsn-modulecontainer {
 	margin-top: 10px;
 }
+
 #jsn-header div.jsn-modulecontainer .jsn-modulecontent {
 	padding: 0;
 }
@@ -2600,7 +2601,7 @@ body.jsn-homepage #jsn-content.jsn-hasright #jsn-maincontent_inner {
 	float:left;
 }
 #jsn-article-demo .demo-caption {
-	width: 300px;
+	width: 500px;
 	float: right;
 	padding: 10px 0;
 	color: #fefefe;
